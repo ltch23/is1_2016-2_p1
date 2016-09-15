@@ -1,2 +1,2 @@
-* Luis Tong Chabes
-* Fritz Velarde-Alvarez Aguilar
+_ Luis Tong Chabes
+_ Fritz Velarde-Alvarez Aguilar
