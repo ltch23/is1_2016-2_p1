@@ -1,6 +1,6 @@
 * Luis Tong Chabes
 
-* mistake
+* error
 
-* before of the mistake
+* antes del error
 
